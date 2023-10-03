@@ -18,11 +18,11 @@ Login-system-master\dist\Login System.exe
 
 When you run the app you will need to either register (if you haven't made an account yet):
 
-![image of registration form](https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/118999815_1051171315340436_4622620464598436394_n.png?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=2tIHBMNsZxMAX9m4KS3&_nc_ht=scontent.fsof9-1.fna&oh=115ac38d573065757888ce78e3822d75&oe=5FA55638)
+![image of registration form](https://i.ibb.co/ryGPfbK/118999815-1051171315340436-4622620464598436394-n.png)
 
 or log in (if you have already registered):
 
-![image of login form](https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/119010638_683589398934432_8340429542884170875_n.png?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=hJlVVhR-1wwAX9BMq6B&_nc_ht=scontent.fsof9-1.fna&oh=e268619c6a6ca3b076d9cf46a2b87ca6&oe=5FA7C1BD)
+![image of login form](https://i.ibb.co/KqZSxq9/119010638-683589398934432-8340429542884170875-n.png)
 
 
 
