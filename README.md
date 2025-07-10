@@ -1,6 +1,6 @@
 # Login System
 
-This project represents а Login and a registration form with an embedded database to store registered users.
+This project represents а Login and a Registration form with an embedded database to store registered users.
 
 ## Installation
 
