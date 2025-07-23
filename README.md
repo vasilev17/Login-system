@@ -1,4 +1,4 @@
-# Login System
+# 🔐 Login System
 
 This project represents а Login and a Registration form with an embedded database to store registered users.
 
@@ -15,14 +15,13 @@ Login-system-master\dist\Login System.exe
 ```
 
 ## Usage
-
 When you run the app you will need to either register (if you haven't made an account yet):
 
-![image of registration form](https://i.ibb.co/ryGPfbK/118999815-1051171315340436-4622620464598436394-n.png)
+<img width="608" height="622" alt="Registration Form" src="https://github.com/user-attachments/assets/bb761117-baa3-44a0-b35b-10b8461c0be1" />
 
 or log in (if you have already registered):
 
-![image of login form](https://i.ibb.co/KqZSxq9/119010638-683589398934432-8340429542884170875-n.png)
+<img width="608" height="621" alt="Login Form" src="https://github.com/user-attachments/assets/02f2e4d5-4026-4617-888d-44db1cabea2e" />
 
 
 
